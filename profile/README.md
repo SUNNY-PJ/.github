@@ -1,4 +1,8 @@
-## SUNNY
+## SUNNY 앱아이콘
+  <img src="https://github.com/SUNNY-PJ/.github/assets/100350818/fc755de8-3cb6-46a4-b70a-d769cebbebb1" width="200" title="앱아이콘">
+
+
+## SUNNY 소개
 <p align="center">
   <p>
   <img src="https://github.com/SUNNY-PJ/Frontend/assets/100350818/9756daf3-caaf-46ee-81af-1973b9a19a51" width="200" title="스크린샷_01_6.5 inch">
