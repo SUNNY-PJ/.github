@@ -1,5 +1,5 @@
 ## 🌞 SUNNY 앱 아이콘
-<p align="center">
+<p>
   <img src="https://github.com/SUNNY-PJ/.github/assets/100350818/fc755de8-3cb6-46a4-b70a-d769cebbebb1" width="200" title="앱아이콘">
 </p>
 
