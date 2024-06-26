@@ -36,3 +36,39 @@
 3. **지출 현황**: 카테고리별 및 월별 지출 현황을 한눈에 볼 수 있도록 시각적으로 제공합니다.
 4. **커뮤니티**: 절약 팁을 공유하고, 다른 사용자들의 절약을 응원하면서 사회적 상호작용을 즐길 수 있습니다.
 
+
+## 프로젝트 팀원
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <br />
+        <b>권수연</b>
+        <br />
+        프론트엔드 개발자
+        <br />
+        <a href="https://github.com/yeoniii20">GitHub 프로필</a>
+      </td>
+      <td align="center">
+        <br />
+        <b>김선웅</b>
+        <br />
+        백엔드 개발자
+        <br />
+        <a href="https://github.com/dnd2dnd">GitHub 프로필</a>
+      </td>
+      <td align="center">
+        <br />
+        <b>엄예림</b>
+        <br />
+        백엔드 개발자
+        <br />
+        <a href="https://github.com/Eom-Ye-rim">GitHub 프로필</a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
