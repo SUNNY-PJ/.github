@@ -45,6 +45,7 @@
   <table>
     <tr>
       <td align="center">
+        <img src="https://img.icons8.com/emoji/96/000000/man-technologist.png" width="100" height="100" alt="Frontend Developer Icon"/>
         <br />
         <b>권수연</b>
         <br />
@@ -53,6 +54,7 @@
         <a href="https://github.com/yeoniii20">GitHub 프로필</a>
       </td>
       <td align="center">
+        <img src="https://img.icons8.com/emoji/96/000000/man-technologist.png" width="100" height="100" alt="Backend Developer Icon"/>
         <br />
         <b>김선웅</b>
         <br />
@@ -61,6 +63,7 @@
         <a href="https://github.com/dnd2dnd">GitHub 프로필</a>
       </td>
       <td align="center">
+        <img src="https://img.icons8.com/emoji/96/000000/woman-technologist.png" width="100" height="100" alt="Backend Developer Icon"/>
         <br />
         <b>엄예림</b>
         <br />
