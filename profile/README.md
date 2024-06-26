@@ -44,41 +44,37 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="50" height="50" alt="Frontend Developer Icon"/>
+      <td align="center" width="200">
+        <img src="https://openmoji.org/data/color/svg/1F468-1F4BB.svg" width="80" height="80" alt="Frontend Developer Icon"/>
         <br />
-        <b>권수연</b>
+        <b style="font-size: 18px;">권수연</b>
         <br />
-        프론트엔드 개발자
+        <span style="font-size: 14px; color: gray;">프론트엔드 개발자</span>
         <br />
         <a href="https://github.com/yeoniii20">
-          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/yeoniii20" />
+          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub Badge" />
         </a>
       </td>
-    </tr>
-  </table>
-   <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/server.svg" width="50" height="50" alt="Backend Developer Icon"/>
+      <td align="center" width="200">
+        <img src="https://openmoji.org/data/color/svg/1F468-1F4BB.svg" width="80" height="80" alt="Backend Developer Icon"/>
         <br />
-        <b>김선웅</b>
+        <b style="font-size: 18px;">김선웅</b>
         <br />
-        백엔드 개발자
+        <span style="font-size: 14px; color: gray;">백엔드 개발자</span>
         <br />
         <a href="https://github.com/dnd2dnd">
-          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/dnd2dnd" />
+          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub Badge" />
         </a>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/database.svg" width="50" height="50" alt="Backend Developer Icon"/>
+      <td align="center" width="200">
+        <img src="https://openmoji.org/data/color/svg/1F469-1F4BB.svg" width="80" height="80" alt="Backend Developer Icon"/>
         <br />
-        <b>엄예림</b>
+        <b style="font-size: 18px;">엄예림</b>
         <br />
-        백엔드 개발자
+        <span style="font-size: 14px; color: gray;">백엔드 개발자</span>
         <br />
-         <a href="https://github.com/Eom-Ye-rim">
-          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Eom-Ye-rim" />
+        <a href="https://github.com/Eom-Ye-rim">
+          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
