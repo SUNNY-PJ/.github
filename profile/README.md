@@ -83,3 +83,52 @@
     </tr>
   </table>
 </p>
+
+<br />
+<br />
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/SUNNY-PJ/Frontend/ci.yml)
+![License](https://img.shields.io/github/license/SUNNY-PJ/Frontend)
+![Release](https://img.shields.io/github/release/SUNNY-PJ/Frontend)
+
+<br />
+
+## 🚀 설치 및 사용 방법
+
+### 설치
+```bash
+git clone https://github.com/SUNNY-PJ/Frontend.git
+cd Frontend
+npm install
+```
+
+### 실행
+```
+npx expo start
+```
+
+<br />
+<br />
+
+## 🤝 기여 방법
+
+1. 이 저장소를 포크합니다.
+2. 새로운 브랜치를 생성합니다. (`git checkout -b feature/새로운기능`)
+3. 변경 사항을 커밋합니다. (`git commit -am 'Add 새로운기능'`)
+4. 브랜치에 푸시합니다. (`git push origin feature/새로운기능`)
+5. 풀 리퀘스트를 생성합니다.
+
+
+<br />
+<br />
+
+## 📄 라이선스
+
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](./LICENSE) 파일을 참조하세요.
+
+<br />
+<br />
+
+## 📬 연락처
+
+질문이나 제안 사항이 있으시면 [이메일](suyoooi@gmail.com)로 연락해 주세요.
