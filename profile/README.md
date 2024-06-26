@@ -45,39 +45,38 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="50" height="50" alt="Frontend Developer Icon"/>
+        <img src="https://openmoji.org/data/color/svg/1F468-1F4BB.svg" width="50" height="50" alt="Frontend Developer Icon"/>
         <br />
         <b>권수연</b>
         <br />
         프론트엔드 개발자
         <br />
-        <a href="https://github.com/yeoniii20">GitHub 프로필</a>
+        <a href="https://github.com/yeoniii20">
+          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/yeoniii20" />
+        </a>
       </td>
-    </tr>
-  </table>
-   <table>
-    <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/server.svg" width="50" height="50" alt="Backend Developer Icon"/>
+        <img src="https://openmoji.org/data/color/svg/1F468-1F4BB.svg" width="50" height="50" alt="Backend Developer Icon"/>
         <br />
         <b>김선웅</b>
         <br />
         백엔드 개발자
         <br />
-        <a href="https://github.com/dnd2dnd">GitHub 프로필</a>
+        <a href="https://github.com/dnd2dnd">
+          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/dnd2dnd" />
+        </a>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/database.svg" width="50" height="50" alt="Backend Developer Icon"/>
+        <img src="https://openmoji.org/data/color/svg/1F469-1F4BB.svg" width="50" height="50" alt="Backend Developer Icon"/>
         <br />
         <b>엄예림</b>
         <br />
         백엔드 개발자
         <br />
-        <a href="https://github.com/Eom-Ye-rim">GitHub 프로필</a>
+        <a href="https://github.com/Eom-Ye-rim">
+          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Eom-Ye-rim" />
+        </a>
       </td>
     </tr>
   </table>
 </p>
-
-
-
