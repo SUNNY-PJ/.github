@@ -88,7 +88,7 @@
 <br />
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/SUNNY-PJ/Frontend/ci.yml)
-![License](https://img.shields.io/github/license/SUNNY-PJ/Frontend)
+![License](https://img.shields.io/github/license/SUNNY-PJ/.github)
 ![Release](https://img.shields.io/github/release/SUNNY-PJ/Frontend)
 
 <br />
