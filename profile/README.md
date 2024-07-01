@@ -43,45 +43,33 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="50" height="50" alt="Frontend Developer Icon"/>
-        <br />
-        <b>권수연</b>
-        <br />
-        프론트엔드 개발자💻
-        <br />
-        <a href="https://github.com/yeoniii20">
-          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/yeoniii20" />
-        </a>
-      </td>
+        <td>
+            <a href="https://github.com/yeoniii20">
+                <img src="https://avatars.githubusercontent.com/u/108983092?v=4" width="100px"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/dnd2dnd">
+                <img src="https://avatars.githubusercontent.com/u/105261146?v=4" width="100px" />
+            </a>
+        </td>
+          <td>
+            <a href="https://github.com/Eom-Ye-rim">
+               <img src="https://avatars.githubusercontent.com/u/66348135?v=4" width="100px" />
+            </a>
+        </td>
     </tr>
-  </table>
-   <table>
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/server.svg" width="50" height="50" alt="Backend Developer Icon"/>
-        <br />
-        <b>김선웅</b>
-        <br />
-        백엔드 개발자💾
-        <br />
-        <a href="https://github.com/dnd2dnd">
-          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/dnd2dnd" />
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/database.svg" width="50" height="50" alt="Backend Developer Icon"/>
-        <br />
-        <b>엄예림</b>
-        <br />
-        백엔드 개발자🖧
-        <br />
-         <a href="https://github.com/Eom-Ye-rim">
-          <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Eom-Ye-rim" />
-        </a>
-      </td>
+        <td align="center"><a href="https://github.com/yeoniii20">권수연</a></td>
+        <td align="center"><a href="https://github.com/dnd2dnd">김선웅</a></td>
+        <td align="center"><a href="https://github.com/Eom-Ye-rim">엄예림</a></td>
     </tr>
-  </table>
+    <tr>
+        <td align="center"><a>Frontend 💻</a></td>
+        <td align="center"><a>Backend 💾</a></td>
+        <td align="center"><a>Backend 🖧</a></td>
+    </tr>
+</table>
 </p>
 
 <br />
