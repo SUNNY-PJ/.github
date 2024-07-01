@@ -45,17 +45,17 @@
     <tr>
         <td>
             <a href="https://github.com/yeoniii20">
-                <img src="https://avatars.githubusercontent.com/u/108983092?v=4" width="100px"/>
+                <img src="https://new-avatar-url-for-yeoniii20" width="100px"/>
             </a>
         </td>
-        <td>
+      <td>
             <a href="https://github.com/dnd2dnd">
-                <img src="https://avatars.githubusercontent.com/u/105261146?v=4" width="100px" />
+                <img src="https://new-avatar-url-for-dnd2dnd" width="100px" />
             </a>
         </td>
           <td>
             <a href="https://github.com/Eom-Ye-rim">
-               <img src="https://avatars.githubusercontent.com/u/66348135?v=4" width="100px" />
+               <img src="https://new-avatar-url-for-eom-ye-rim" width="100px" />
             </a>
         </td>
     </tr>
