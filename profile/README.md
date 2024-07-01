@@ -45,27 +45,36 @@
     <tr>
         <td>
             <a href="https://github.com/yeoniii20">
-                <img src="https://new-avatar-url-for-yeoniii20" width="100px"/>
-            </a>
-        </td>
-      <td>
-            <a href="https://github.com/dnd2dnd">
-                <img src="https://new-avatar-url-for-dnd2dnd" width="100px" />
-            </a>
-        </td>
-          <td>
-            <a href="https://github.com/Eom-Ye-rim">
-               <img src="https://new-avatar-url-for-eom-ye-rim" width="100px" />
+                <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="50" height="50" alt="Frontend Developer Icon"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/yeoniii20">권수연</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a>Frontend 💻</a></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+      <td>
+            <a href="https://github.com/dnd2dnd">
+                <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/server.svg" width="50" height="50" alt="Backend Developer Icon"/>
+            </a>
+        </td>
+          <td>
+            <a href="https://github.com/Eom-Ye-rim">
+               <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/database.svg" width="50" height="50" alt="Backend Developer Icon"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
         <td align="center"><a href="https://github.com/dnd2dnd">김선웅</a></td>
         <td align="center"><a href="https://github.com/Eom-Ye-rim">엄예림</a></td>
     </tr>
     <tr>
-        <td align="center"><a>Frontend 💻</a></td>
         <td align="center"><a>Backend 💾</a></td>
         <td align="center"><a>Backend 🖧</a></td>
     </tr>
