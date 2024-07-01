@@ -41,11 +41,11 @@
 
 ## 👥 프로젝트 팀원
 <p align="center">
-  <table>
+ <table>
     <tr>
-        <td>
+        <td align="center">
             <a href="https://github.com/yeoniii20">
-                <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" align="center" width="50" height="50" alt="Frontend Developer Icon"/>
+                <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="50" height="50" alt="Frontend Developer Icon"/>
             </a>
         </td>
     </tr>
@@ -59,14 +59,14 @@
 
 <table>
     <tr>
-      <td>
+      <td align="center">
             <a href="https://github.com/dnd2dnd">
-                <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/server.svg" align="center" width="50" height="50" alt="Backend Developer Icon"/>
+                <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/server.svg" width="50" height="50" alt="Backend Developer Icon"/>
             </a>
         </td>
-          <td>
+          <td align="center">
             <a href="https://github.com/Eom-Ye-rim">
-               <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/database.svg" align="center" width="50" height="50" alt="Backend Developer Icon"/>
+               <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/database.svg" width="50" height="50" alt="Backend Developer Icon"/>
             </a>
         </td>
     </tr>
