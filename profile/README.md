@@ -5,7 +5,8 @@
 <br />
 
 아래 링크를 통해 앱 스토어에서 다운로드하실 수 있습니다.
-[![다운로드 아이콘](https://example.com/path-to-your-icon.png)](https://itunes.apple.com/app/id6479210024) [앱 스토어에서 다운로드](https://itunes.apple.com/app/id6479210024)
+
+[앱 스토어에서 다운로드 📲](https://itunes.apple.com/app/id6479210024)
 
 <br />
 
