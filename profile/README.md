@@ -47,46 +47,45 @@
 <br />
 
 ## 👥 프로젝트 팀원
-<p align="center">
- <table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/yeoniii20">
-                <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="50" height="50" alt="Frontend Developer Icon"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/yeoniii20">권수연</a></td>
-    </tr>
-    <tr>
-        <td align="center"><a>Frontend 💻</a></td>
-    </tr>
-</table>
 
 <table>
-    <tr>
-      <td align="center">
-            <a href="https://github.com/dnd2dnd">
-                <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/server.svg" width="50" height="50" alt="Backend Developer Icon"/>
-            </a>
-        </td>
-          <td align="center">
-            <a href="https://github.com/Eom-Ye-rim">
-               <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/database.svg" width="50" height="50" alt="Backend Developer Icon"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/dnd2dnd">김선웅</a></td>
-        <td align="center"><a href="https://github.com/Eom-Ye-rim">엄예림</a></td>
-    </tr>
-    <tr>
-        <td align="center"><a>Backend 💾</a></td>
-        <td align="center"><a>Backend 🖧</a></td>
-    </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/yeoniii20" width="100px;" alt="Yeoniii20's profile picture"/>
+      <br />
+      <b>권수연</b>
+      <br />
+      <a href="https://github.com/yeoniii20">GitHub</a>
+      <br />
+      <sub>Frontend 💻</sub>
+      <br />
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/dnd2dnd" width="100px;" alt="dnd2dnd's profile picture"/>
+      <br />
+      <b>김선웅</b>
+      <br />
+      <a href="https://github.com/yeoniii20">GitHub</a>
+      <br />
+      <sub>Backend 🖧</sub>
+      <br />
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/Eom-Ye-rim" width="100px;" alt="Eom-Ye-rim's profile picture"/>
+      <br />
+      <b>엄예림</b>
+      <br />
+      <a href="https://github.com/yeoniii20">GitHub</a>
+      <br />
+      <sub>Backend 💾</sub>
+      <br />
+    </td>
+  </tr>
 </table>
-</p>
 
 <br />
 <br />
