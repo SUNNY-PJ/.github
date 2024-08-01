@@ -60,8 +60,6 @@
       <sub>Frontend 💻</sub>
       <br />
     </td>
-  </tr>
-   <tr>
     <td align="center">
       <a href="https://github.com/dnd2dnd">
       <img src="https://avatars.githubusercontent.com/dnd2dnd" width="100px;" alt="dnd2dnd's profile picture"/>
