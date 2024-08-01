@@ -67,7 +67,7 @@
       <br />
       <b>김선웅</b>
       <br />
-      <a href="https://github.com/yeoniii20">GitHub</a>
+     <!-- <a href="https://github.com/dnd2dnd">GitHub</a> -->
       <br />
       <sub>Backend 🖧</sub>
       <br />
@@ -75,11 +75,13 @@
   </tr>
    <tr>
     <td align="center">
+      <a href="https://github.com/Eom-Ye-rim">
       <img src="https://avatars.githubusercontent.com/Eom-Ye-rim" width="100px;" alt="Eom-Ye-rim's profile picture"/>
+        </a>
       <br />
       <b>엄예림</b>
       <br />
-      <a href="https://github.com/yeoniii20">GitHub</a>
+     <!-- <a href="https://github.com/Eom-Ye-rim">GitHub</a> -->
       <br />
       <sub>Backend 💾</sub>
       <br />
