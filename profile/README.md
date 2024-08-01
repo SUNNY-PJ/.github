@@ -51,11 +51,11 @@
 <table>
   <tr>
     <td align="center">
+       <a href="https://github.com/yeoniii20">
       <img src="https://avatars.githubusercontent.com/yeoniii20" width="100px;" alt="Yeoniii20's profile picture"/>
+      </a>
       <br />
       <b>권수연</b>
-      <br />
-      <a href="https://github.com/yeoniii20">GitHub</a>
       <br />
       <sub>Frontend 💻</sub>
       <br />
@@ -63,26 +63,23 @@
   </tr>
    <tr>
     <td align="center">
+      <a href="https://github.com/dnd2dnd">
       <img src="https://avatars.githubusercontent.com/dnd2dnd" width="100px;" alt="dnd2dnd's profile picture"/>
+      </a>
       <br />
       <b>김선웅</b>
-      <br />
-     <!-- <a href="https://github.com/dnd2dnd">GitHub</a> -->
       <br />
       <sub>Backend 🖧</sub>
       <br />
     </td>
-  </tr>
-   <tr>
     <td align="center">
-      <a href="https://github.com/Eom-Ye-rim">
-      <img src="https://avatars.githubusercontent.com/Eom-Ye-rim" width="100px;" alt="Eom-Ye-rim's profile picture"/>
+      <a href="https://github.com/EomYerim">
+      <img src="https://avatars.githubusercontent.com/EomYerim" width="100px;" alt="EomYerim's profile picture"/>
         </a>
       <br />
       <b>엄예림</b>
       <br />
-     <!-- <a href="https://github.com/Eom-Ye-rim">GitHub</a> -->
-      <br />
+     <!-- <a href="https://github.com/EomYerim">GitHub</a> -->
       <sub>Backend 💾</sub>
       <br />
     </td>
