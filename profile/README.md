@@ -12,15 +12,15 @@
 
 ## 📱 SUNNY 소개
 <p align="center">
-  <p>
-  <img src="https://github.com/SUNNY-PJ/Frontend/assets/100350818/9756daf3-caaf-46ee-81af-1973b9a19a51" width="200" title="스크린샷_01_6.5 inch">
-  <img src="https://github.com/SUNNY-PJ/Frontend/assets/100350818/c0f42bc1-4a98-4983-946a-2fe3c287aae6" width="200" title="스크린샷_02_6.5 inch">
+   <p>
+  <img src="https://github.com/user-attachments/assets/143b67f9-0eee-4ed7-a858-d2e7050f6b0f" width="200" title="스크린샷_01_6.5 inch">
+  <img src="https://github.com/user-attachments/assets/6ff5b594-de33-4ea7-b541-05f3b7eba24e" width="200" title="스크린샷_02_6.5 inch">
   </p>
   <p>
-  <img src="https://github.com/SUNNY-PJ/Frontend/assets/100350818/080d874b-8aa2-469b-a343-05e0020fd8b1" width="200" title="스크린샷_06_6.5 inch">
-  <img src="https://github.com/SUNNY-PJ/Frontend/assets/100350818/85190ec6-c17d-4b56-9f0c-1a5947c8b24b" width="200" title="스크린샷_05_6.5 inch">
-  <img src="https://github.com/SUNNY-PJ/Frontend/assets/100350818/3c5ec895-cb2c-490d-b196-0d76b7cfb0bc" width="200" title="스크린샷_04_6.5 inch">
-  <img src="https://github.com/SUNNY-PJ/Frontend/assets/100350818/cb2d467a-9a29-4b44-b007-7010e5fa6230" width="200" title="스크린샷_03_6.5 inch">
+  <img src="https://github.com/user-attachments/assets/7633684e-ab21-41fc-98e3-4b618e6a9d13" width="200" title="스크린샷_06_6.5 inch">
+  <img src="https://github.com/user-attachments/assets/a96dfdfc-8575-4169-9566-8435d5f9d31e" width="200" title="스크린샷_05_6.5 inch">
+  <img src="https://github.com/user-attachments/assets/6b51420b-1503-4799-8e71-fec28d26bf08" width="200" title="스크린샷_04_6.5 inch">
+  <img src="https://github.com/user-attachments/assets/e7b89fa6-757d-4c7c-8006-77483fc9be31" width="200" title="스크린샷_03_6.5 inch">
   </p>
 </p>
 
